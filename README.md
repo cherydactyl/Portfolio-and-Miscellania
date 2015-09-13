@@ -8,7 +8,7 @@ It includes URLs to the codeskulptor site where my code resides: <br/>
 
 
 ###*Gamification - Designing a Wellness program* <br>
-This file is an essay assignment from the Coursera course Gamification, about designing a gamified municipal wellness program, with the aim of motivating employees to improve their fitness and thereby save money on employee healthcare costs. This is part of teh work that caused the course instructors to tap me as a community teaching assistant for the subsequent run of the same course. <br/>
+This file is an essay assignment from the Coursera course Gamification, about designing a gamified municipal wellness program, with the aim of motivating employees to improve their fitness and thereby save money on employee healthcare costs. This is part of the work that caused the course instructors to tap me as a community teaching assistant for the subsequent run of the same course. <br/>
 <a href="https://github.com/cherydactyl/Portfolio-and-Miscellania/blob/master/Gamification%20-%20Designing%20a%20Wellness%20program.pdf">Designing a Wellness program</a>
 
 
